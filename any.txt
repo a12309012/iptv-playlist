@@ -472,7 +472,6 @@ Global Trekke台湾,https://hls-gateway.vpstv.net/streams/708941.m3u8
 History 台湾,https://hls-gateway.vpstv.net/streams/708942.m3u8
 LUXE TV Channel,https://hls-gateway.vpstv.net/streams/708943.m3u8
 CI 罪案偵查頻道,https://hls-gateway.vpstv.net/streams/708944.m3u8
-金光布袋戲,https://hls-gateway.vpstv.net/streams/708946.m3u8
 民視戲劇台,https://hls-gateway.vpstv.net/streams/708947.m3u8
 INULTRA HD,https://hls-gateway.vpstv.net/streams/709061.m3u8
 MagellanTV,https://hls-gateway.vpstv.net/streams/709062.m3u8
