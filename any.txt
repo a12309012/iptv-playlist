@@ -62,6 +62,15 @@ CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
 无线新闻台,http://qwt.zhibotv.top:2016/全网通.php?id=无线新闻台
 中天新闻台,http://qwt.zhibotv.top:2016/全网通.php?id=中天新闻
 寰宇新闻台,http://qwt.zhibotv.top:2016/全网通.php?id=寰宇新闻
+收集,#genre#
+无线翡翠台,http://bx.757888.xyz/mytv/mytvts1.1.php?id=null
+明珠台,http://bx.757888.xyz/mytv/mytvts1.1.php?id=null-2
+无线新闻,http://bx.757888.xyz/mytv/mytvts1.1.php?id=null-1
+美亚电影,http://bx.757888.xyz/mytv/mytvts1.1.php?id=null-3
+TVBplus,http://bx.757888.xyz/mytv/mytvts1.1.php?id=tvbplus
+天映经典,http://bx.757888.xyz/mytv/mytvts1.1.php?id=null-4
+东森电影,http://bx.757888.xyz/mytv/mytvts1.1.php?id=null-10
+龙华电影,http://bx.757888.xyz/mytv/mytvts1.1.php?id=null-12
 大陸,#genre#
 CCTV1 综合HD,https://hls-gateway.vpstv.net/streams/476879.m3u8
 CCTV2 财经HD,https://hls-gateway.vpstv.net/streams/476881.m3u8
