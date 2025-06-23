@@ -88,6 +88,13 @@ Anal Only,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/
 Analized,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6168/index.m3u8
 Angels trans tv,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6259/index.m3u8
 Angls HD,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6198/manifest.m3u8
+八蜜凛1,https://surrit.com/0435ab78-c497-44f1-a16c-448cf122255b/playlist.m3u8
+八蜜凛2,https://surrit.com/9021fa41-6968-4ae4-8e82-b2d6febacaa2/playlist.m3u8
+八蜜凛3,https://surrit.com/0a6b325b-ef37-4afd-8a58-89336fa359ff/playlist.m3u8
+八蜜凛4,https://surrit.com/7ad64459-d564-4714-a6c9-435a1b9ec07d/playlist.m3u8
+八蜜凛5,https://surrit.com/784fe9d1-26b2-4dd6-b879-64696f4816af/playlist.m3u8
+八蜜凛6,https://surrit.com/db665ab6-833b-43c3-bf8b-c392e31becad/playlist.m3u8
+八蜜凛7,https://surrit.com/18672c5d-0205-43a1-a143-d4f8ec3424c4/playlist.m3u8
 大陸,#genre#
 CCTV1 综合HD,https://hls-gateway.vpstv.net/streams/476879.m3u8
 CCTV2 财经HD,https://hls-gateway.vpstv.net/streams/476881.m3u8
