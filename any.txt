@@ -1,4 +1,7 @@
 TG收集,#genre#
+CHC家庭影院,http://qwt.zhibotv.top:2016/全网通.php?id=CHC家庭影院
+CHC影迷电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC影迷电影
+CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
 无线翡翠台,http://bx.757888.xyz/mytv/mytvts1.1.php?id=null
 无线新闻,http://bx.757888.xyz/mytv/mytvts1.1.php?id=null-1
 tvN,https://s1.m16tv.cfd/aktv/tvn/AKTV.m3u8
