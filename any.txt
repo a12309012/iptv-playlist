@@ -133,6 +133,13 @@ HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 美亚电影2,http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
 美亚电影3,http://198.16.100.186:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
 ROCK Action,https://s1.m16tv.cfd/aktv/rockaction/AKTV.m3u8
+澳视澳门,https://fenghuang.tv12.xyz/181.m3u8
+澳视葡文,https://fenghuang.tv12.xyz/182.m3u8
+澳门Macau,https://fenghuang.tv12.xyz/183.m3u8
+澳门体育,https://fenghuang.tv12.xyz/184.m3u8
+澳门资讯,https://fenghuang.tv12.xyz/185.m3u8
+澳门综艺,https://fenghuang.tv12.xyz/186.m3u8
+澳门莲花,https://fenghuang.tv12.xyz/187.m3u8
 ROCK Action,http://jxiptv.dpdns.org/stream/tvb/rockaction/master.m3u8
 HBO,https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
 RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
