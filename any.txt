@@ -56,7 +56,7 @@ CCTV-5+体育赛事,http://119.60.214.202:8089/hls/17/index.m3u8
 CHC家庭影院,http://qwt.zhibotv.top:2016/全网通.php?id=CHC家庭影院
 CHC影迷电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC影迷电影
 CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
-大陸全网通备,#genre#
+全网通备,#genre#
 CCTV1,http://edge-cache02.live3.omd.sc96655.com/live/CCTV-1H265_4000.m3u8
 CCTV2,http://edge-cache02.live3.omd.sc96655.com/live/CCTV-2H265_4000.m3u8
 CCTV3,http://edge-cache02.live3.omd.sc96655.com/live/CCTV-3H265_4000.m3u8
