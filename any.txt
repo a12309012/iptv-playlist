@@ -57,37 +57,11 @@ CHC家庭影院,http://qwt.zhibotv.top:2016/全网通.php?id=CHC家庭影院
 CHC影迷电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC影迷电影
 CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
 TG收集,#genre#
-无线翡翠台,http://bx.757888.xyz/mytv/mytvts1.1.php?id=null
-无线新闻,http://bx.757888.xyz/mytv/mytvts1.1.php?id=null-1
-tvN,https://s1.m16tv.cfd/aktv/tvn/AKTV.m3u8
-翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-翡翠综合台(北美),https://s1.m16tv.cfd/aktv/CH-17/AKTV.m3u8
-华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
-无線新聞台,https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
-无線新聞台,http://php.jdshipin.com/smt.php?id=inews_twn
-无线新闻,http://ali.hlspull.yximgs.com/live/awei_wxxw.flv
-无线新闻,https://guangdongcmcc.tv12.xyz/5.m3u8
-TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
-PopC,https://s1.m16tv.cfd/aktv/popc/AKTV.m3u8
-千禧经典台,http://php.jdshipin.com/smt.php?id=Tvbclassic
 TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
-爱奇艺,https://s1.m16tv.cfd/aktv2/iqiyi/AKTV.m3u8
-明珠剧集台(北美),https://s1.m16tv.cfd/aktv/CH-19/AKTV.m3u8
-明珠台,http://bx.757888.xyz/mytv/mytvts1.1.php?id=null-2
-明珠台,https://s1.m16tv.cfd/aktv/CH-2/AKTV.m3u8
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-明珠台,http://jxiptv.dpdns.org/stream/tvb/null-4/master.m3u8
-TVB Plus,https://s1.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
-TVB Plus,http://bx.757888.xyz/mytv/mytvts1.1.php?id=tvbplus
-myTV SUPER 18台,https://s1.m16tv.cfd/aktv/mytvsuper18/AKTV.m3u8
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-VIUTV,https://s1.m16tv.cfd/aktv2/viutv/AKTV.m3u8
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-凤凰中文,https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
+
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
@@ -97,40 +71,9 @@ HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 凤凰香港,https://s1.m16tv.cfd/aktv/CH-5/AKTV.m3u8
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰香港,http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
-美亞電影台(HK),https://s1.m16tv.cfd/aktv/hk/AKTV.m3u8
-美亚电影,http://bx.757888.xyz/mytv/mytvts1.1.php?id=null-3
-美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+
 美亚电影TW,http://198.16.100.186:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
-ROCK Action,https://s1.m16tv.cfd/aktv/rockaction/AKTV.m3u8
-HBO,https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
-RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-天映经典,http://bx.757888.xyz/mytv/mytvts1.1.php?id=null-4
-澳视澳门,https://fenghuang.tv12.xyz/181.m3u8
-澳视葡文,https://fenghuang.tv12.xyz/182.m3u8
-澳门Macau,https://fenghuang.tv12.xyz/183.m3u8
-澳门体育,https://fenghuang.tv12.xyz/184.m3u8
-澳门资讯,https://fenghuang.tv12.xyz/185.m3u8
-澳门综艺,https://fenghuang.tv12.xyz/186.m3u8
-澳门莲花,https://fenghuang.tv12.xyz/187.m3u8
-民視第一,https://s1.m16tv.cfd/taiwan/CH-0/AKTV.m3u8
-東森洋片,https://s1.m16tv.cfd/aktv2/CH-2/AKTV.m3u8
-東森電影,https://s1.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
 東森電影,http://bx.757888.xyz/mytv/mytvts1.1.php?id=null-10
-東森新聞,https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
-中天新闻台,https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
-中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
-TVBS新聞,https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
-tvbs闽南,http://61.221.215.25:8800/hls/9/index.m3u8
-三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-緯來體育台,https://s1.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
-纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-CNA,https://s1.m16tv.cfd/aktv3/cna/AKTV.m3u8
-KPOP+,https://s1.m16tv.cfd/aktv3/kpop/AKTV.m3u8
-Channel 5 HD,https://s1.m16tv.cfd/aktv/channel5hd/AKTV.m3u8
-Channel 8 HD,https://s1.m16tv.cfd/aktv/channel8hd/AKTV.m3u8
-Channel U HD,https://s1.m16tv.cfd/aktv/channeluhd/AKTV.m3u8
 龍祥時代,http://t.061899.xyz/tl/168.php?id=lxsd
 龍華偶像,http://t.061899.xyz/tl/168.php?id=lhox
 龍華戲劇,http://t.061899.xyz/tl/168.php?id=lhxj
@@ -143,26 +86,6 @@ Channel U HD,https://s1.m16tv.cfd/aktv/channeluhd/AKTV.m3u8
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-AXNSG,http://198.16.100.186:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
-AXNTW,https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
-Japan News 24H LIVE,https://s1.m16tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
-日テレNEWS LIVE,https://s1.m16tv.cfd/aktvjp/ntv/AKTV.m3u8Alba XXX HD03,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/12105/manifest.m3u8
-Alex Legend,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/12193/manifest.m3u8
-All Anal,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/12192/manifest.m3u8
-Anal 4K,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/12190/manifest.m3u8
-Anal all the Time,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12181/index.m3u8
-Anal Mom,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12189/index.m3u8
-Anal Only,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12184/index.m3u8
-Analized,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6168/index.m3u8
-Angels trans tv,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6259/index.m3u8
-Angls HD,http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6198/manifest.m3u8
-八蜜凛1,https://surrit.com/0435ab78-c497-44f1-a16c-448cf122255b/playlist.m3u8
-八蜜凛2,https://surrit.com/9021fa41-6968-4ae4-8e82-b2d6febacaa2/playlist.m3u8
-八蜜凛3,https://surrit.com/0a6b325b-ef37-4afd-8a58-89336fa359ff/playlist.m3u8
-八蜜凛4,https://surrit.com/7ad64459-d564-4714-a6c9-435a1b9ec07d/playlist.m3u8
-八蜜凛5,https://surrit.com/784fe9d1-26b2-4dd6-b879-64696f4816af/playlist.m3u8
-八蜜凛6,https://surrit.com/db665ab6-833b-43c3-bf8b-c392e31becad/playlist.m3u8
-八蜜凛7,https://surrit.com/18672c5d-0205-43a1-a143-d4f8ec3424c4/playlist.m3u8
 大陸,#genre#
 CCTV1 综合HD,https://hls-gateway.vpstv.net/streams/476879.m3u8
 CCTV2 财经HD,https://hls-gateway.vpstv.net/streams/476881.m3u8
