@@ -410,13 +410,11 @@ http://198.16.100.186:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284
 http://t.061899.xyz/tl/168.php?id=lxsd
 #EXTINF:-1 group-title="TG收集" ,龍華偶像
 http://t.061899.xyz/tl/168.php?id=lhox
-#EXTINF:-1 group-title="TG收集" ,龍華戲劇
+#EXTINF:-1 group-title="TG收集" ,龍華戏剧
 http://t.061899.xyz/tl/168.php?id=lhxj
 #EXTINF:-1 group-title="TG收集" ,龍華洋片
-http://t.061899.xyz/tl/168.php?id=lhyp
-#EXTINF:-1 group-title="TG收集" ,龍華經典
 http://t.061899.xyz/tl/168.php?id=lhjd
-#EXTINF:-1 group-title="TG收集" ,龍華電影
+#EXTINF:-1 group-title="TG收集" ,龍華电影
 http://t.061899.xyz/tl/168.php?id=lhdy
 #EXTINF:-1 group-title="TG收集" ,龍華电影
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
