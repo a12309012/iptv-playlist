@@ -390,7 +390,6 @@ http://php.jdshipin.com/smt.php?id=Qiyi
 http://bx.757888.xyz/mytv/mytvts1.1.php?id=tvbplus
 #EXTINF:-1 group-title="TG收集" ,VIUTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-
 #EXTINF:-1 group-title="TG收集" ,凤凰中文
 https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
 #EXTINF:-1 group-title="TG收集" ,凤凰中文
@@ -405,17 +404,8 @@ http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
 http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 #EXTINF:-1 group-title="TG收集" ,凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 group-title="TG收集" ,美亚电影
-http://bx.757888.xyz/mytv/mytvts1.1.php?id=null-3
 #EXTINF:-1 group-title="TG收集" ,美亚电影TW
 http://198.16.100.186:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
-#EXTINF:-1 group-title="TG收集" ,RTHK31
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-#EXTINF:-1 group-title="TG收集" ,RTHK32
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 group-title="TG收集" ,天映经典
-http://bx.757888.xyz/mytv/mytvts1.1.php?id=null-4
-
 #EXTINF:-1 group-title="TG收集" ,龍祥時代
 http://t.061899.xyz/tl/168.php?id=lxsd
 #EXTINF:-1 group-title="TG收集" ,龍華偶像
