@@ -61,7 +61,6 @@ TG收集,#genre#
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
@@ -71,7 +70,23 @@ TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 凤凰香港,https://s1.m16tv.cfd/aktv/CH-5/AKTV.m3u8
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-
+测试香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+凤凰资讯台,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰中文台,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+星空卫视(国际),http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889901.flv
+天映经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889902.flv
+Now爆谷台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889903.flv
+Now星影台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889904.flv
+Now紫金国际,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889905.flv
+黄金华剧台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889908.flv
+Now华剧台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889909.flv
+中天新闻台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889911.flv
+PopC电影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889912.flv
+TVBS HD,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889913.flv
+好莱坞电影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889925.flv
+美亚电影(台),http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889926.flv
+TVB功夫(国),http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889928.flv
+龙华电影, https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 美亚电影TW,http://198.16.100.186:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
 東森電影,http://bx.757888.xyz/mytv/mytvts1.1.php?id=null-10
 龍祥時代,http://t.061899.xyz/tl/168.php?id=lxsd
@@ -1442,6 +1457,8 @@ HAPPY,https://hls-gateway.vpstv.net/streams/709091.m3u8
 Playboy,https://hls-gateway.vpstv.net/streams/476376.m3u8
 Dorcel ,https://hls-gateway.vpstv.net/streams/476377.m3u8
 HAPPY CHANNEL,https://hls-gateway.vpstv.net/streams/709085.m3u8
+JS极限台,http://aplay.seres.cn:80/live/404bc2ae5f493fafdc232fa4db1d8545.m3u8
+精艳台,http://aplay.seres.cn:80/live/3e027ee2ca28bdbd39c379c9c5681159.m3u8
 erox,https://hls-gateway.vpstv.net/streams/644724.m3u8
 eroxxx,https://hls-gateway.vpstv.net/streams/644725.m3u8
 brazzers,https://hls-gateway.vpstv.net/streams/644730.m3u8
