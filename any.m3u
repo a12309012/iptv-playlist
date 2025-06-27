@@ -432,32 +432,33 @@ http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889925.flv
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889926.flv
 #EXTINF:-1 group-title="TG收集" ,TVB功夫(国)
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889928.flv
-#EXTINF:-1 group-title="龙华电影, https://cdn8.163189.xyz/live/lhdy/stream.m3u8" ,美亚电影TW
+#EXTINF:-1 group-title="TG收集" ,美亚电影TW
 http://198.16.100.186:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
-#EXTINF:-1 group-title="龙华电影, https://cdn8.163189.xyz/live/lhdy/stream.m3u8" ,龍祥時代
+#EXTINF:-1 group-title="TG收集" ,龍祥時代
 http://t.061899.xyz/tl/168.php?id=lxsd
-#EXTINF:-1 group-title="龙华电影, https://cdn8.163189.xyz/live/lhdy/stream.m3u8" ,龍華偶像
+#EXTINF:-1 group-title="TG收集" ,龍華偶像
 http://t.061899.xyz/tl/168.php?id=lhox
-#EXTINF:-1 group-title="龙华电影, https://cdn8.163189.xyz/live/lhdy/stream.m3u8" ,龍華戲劇
+#EXTINF:-1 group-title="TG收集" ,龍華戲劇
 http://t.061899.xyz/tl/168.php?id=lhxj
-#EXTINF:-1 group-title="龙华电影, https://cdn8.163189.xyz/live/lhdy/stream.m3u8" ,龍華洋片
+#EXTINF:-1 group-title="TG收集" ,龍華洋片
 http://t.061899.xyz/tl/168.php?id=lhyp
-#EXTINF:-1 group-title="龙华电影, https://cdn8.163189.xyz/live/lhdy/stream.m3u8" ,龍華經典
+#EXTINF:-1 group-title="TG收集" ,龍華經典
 http://t.061899.xyz/tl/168.php?id=lhjd
-#EXTINF:-1 group-title="龙华电影, https://cdn8.163189.xyz/live/lhdy/stream.m3u8" ,龍華電影
+#EXTINF:-1 group-title="TG收集" ,龍華電影
 http://t.061899.xyz/tl/168.php?id=lhdy
-#EXTINF:-1 group-title="龙华电影, https://cdn8.163189.xyz/live/lhdy/stream.m3u8" ,龙华电影
+#EXTINF:-1 group-title="TG收集" ,龙华电影
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-#EXTINF:-1 group-title="龙华电影, https://cdn8.163189.xyz/live/lhdy/stream.m3u8" ,龙华经典
+#EXTINF:-1 group-title="TG收集" ,龙华经典
 https://cdn8.163189.xyz/live/lhjd/stream.m3u8
-#EXTINF:-1 group-title="龙华电影, https://cdn8.163189.xyz/live/lhdy/stream.m3u8" ,龙华卡通
+#EXTINF:-1 group-title="TG收集" ,龙华卡通
 https://cdn8.163189.xyz/live/lhkt/stream.m3u8
-#EXTINF:-1 group-title="龙华电影, https://cdn8.163189.xyz/live/lhdy/stream.m3u8" ,龙华偶像
+#EXTINF:-1 group-title="TG收集" ,龙华偶像
 https://cdn8.163189.xyz/live/lhox/stream.m3u8
-#EXTINF:-1 group-title="龙华电影, https://cdn8.163189.xyz/live/lhdy/stream.m3u8" ,龙华日韩
+#EXTINF:-1 group-title="TG收集" ,龙华日韩
 https://cdn8.163189.xyz/live/lhrh/stream.m3u8
-#EXTINF:-1 group-title="龙华电影, https://cdn8.163189.xyz/live/lhdy/stream.m3u8" ,龙华戏剧
+#EXTINF:-1 group-title="TG收集" ,龙华戏剧
 https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+
 
 #EXTINF:-1 group-title="大陸" ,CCTV1 综合HD
 https://hls-gateway.vpstv.net/streams/476879.m3u8
